@@ -1,0 +1,2 @@
+print("prac1")
+pirnt(" cd, cd .., cd../../filename, cd filename")
