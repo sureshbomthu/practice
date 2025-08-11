@@ -1,0 +1,2 @@
+print("git work flow")
+print("git add, git commit -m "message", git push origin remoterepoid, git pull remoterepoid, git clone remoterepoid")
